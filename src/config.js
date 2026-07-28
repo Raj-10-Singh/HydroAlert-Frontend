@@ -1,0 +1,1 @@
+export const SERVER = "https://hydroalert-backend.onrender.com";
